@@ -1,0 +1,13 @@
+body{
+    background-color: #5F9BB3;
+}
+
+.header_container{
+    display: grid;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+.header__tittle{
+    font-family: Tahoma;
+}
